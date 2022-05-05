@@ -1,4 +1,4 @@
-# NBA Analyzer Web
+# NBA Analysis Web
 
 Team Member: Zhifan Bian, Li He, Yiting Guevara, Tao Li
 
