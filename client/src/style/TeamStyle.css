@@ -1,0 +1,113 @@
+.teamPage {
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+}
+
+.title {
+  margin-left: 15vh;
+  margin-top: 6vh;
+  font-style: italic;
+  font-size: 60px;
+  font-variant-caps: all-petite-caps;
+}
+
+.header {
+  display: flex;
+}
+
+.title-row {
+  width: 81vh;
+  margin-top: -3vh;
+}
+
+.hyperlink {
+  padding-top: 2vh;
+}
+
+h3.header {
+  font-size: 20px;
+  margin-bottom: 0px;
+  background-color: rgb(230, 230, 230);
+  padding-left: 10px;
+  height: 40px;
+}
+
+.teampage {
+  margin-left: 15vh;
+  display: flex;
+  padding-top: 2vh;
+}
+
+.left-block {
+  width: 60vh;
+  height: fit-content;
+}
+
+.left-top-block {
+  padding-left: 10vh;
+}
+
+.teamlogo {
+  width: 200px;
+  height: 200px;
+  margin-left: 10vh;
+}
+
+.infobox-label {
+  padding-left: 5vh;
+}
+
+.table-row {
+  line-height: 50px;
+  align-items: center;
+}
+
+.table-left-row {
+  line-height: 50px;
+}
+
+.table-right-row {
+  line-height: 50px;
+  text-align: right;
+}
+
+.right-block {
+  padding-left: 10vh;
+}
+
+.table-col {
+  width: 120px;
+}
+
+.table-data {
+  width: 120px;
+  display: table-cell;
+}
+
+.player-match {
+  width: 300px;
+}
+
+.right-row {
+  line-height: 40px;
+}
+
+.statistics {
+  padding-top: 1vh;
+  display: flex;
+  background-color: rgb(230, 230, 230);
+}
+
+.select {
+  padding-left: 80vh;
+  align-content: center;
+  height: 0px;
+}
+
+.notes {
+  padding-top: 1vh;
+  font-size: small;
+}
+
+.note {
+  margin-bottom: 0;
+}

@@ -1,0 +1,74 @@
+#root {
+  width: 100%;
+  height: 100%;
+}
+.homePage {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    /* justify-content: center; */
+    /* align-items: right; */
+    flex-direction: column;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  }
+
+  .homePage .Navbar {
+     height: auto;
+  }
+
+  .homePage .content {
+    flex: 1 1 auto;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .homePage .login-button, 
+  .homePage .signout-button{
+    width: 300px;
+  }
+
+  .homePage .footer{
+    /* height: 100px;
+    /* color:black */
+
+    /* display: flex;
+    flex-wrap: nowrap;
+    height: min-content;
+    justify-content: flex-start;
+    align-items: center;
+    align-content: center;
+    columns: red; */
+    color: white;
+    display: flex;
+    flex-wrap: nowrap;
+    height: min-content;
+    justify-content: space-between;
+    align-items: flex-end;
+    align-content: center;
+  }
+
+  .homePage .footer .socialMedia{
+    display: flex;
+    color: white;
+    margin: 20px;
+    font-size: 70px;
+    cursor: pointer;
+
+  }
+
+  .homePage .footer .copyright{
+    color: white;
+    display: 1 1 flex;
+    align-items: flex-start;
+    justify-content: center;
+    align-content: flex-end;
+    margin-left: 3vh;
+    /* columns: red; */
+  }
+
+  

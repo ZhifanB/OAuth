@@ -1,0 +1,40 @@
+
+.logInOutButton {
+    color: white;
+    text-decoration-line: underline;
+    background-color: transparent;
+    position: absolute; 
+    right: 5vh;
+}
+
+.login-button {
+    color: white;
+    text-decoration-line: underline;
+    background-color: transparent;
+    position: absolute; 
+    right: 5vh;
+}
+
+
+.after-login {
+    display: flex;
+    position: absolute;
+    right: 0vh;
+    height: 80px;
+    width: 20vh;
+    margin-top: -1.5vh;
+}
+
+.login-profile {
+    margin-top: 2vh; 
+    height: 50%;
+    border-radius: 50%;
+}
+
+.login-name {
+    margin-top: 3vh;
+    color: white; 
+    font-size: 0.8em; 
+    font-weight: 100;
+    padding-left: 2vh;
+}
